@@ -12,7 +12,7 @@ File or Folder | Purpose
 `package.json` | project metadata and configuration
 `readme.md` | this getting started guide
 
-
+ --hello
 ## Next Steps
 
 - Open a new terminal and run `cds watch`
